@@ -1,18 +1,18 @@
 
 
-@gruzdevdaniil
+<div id='header' align='center'>
+  <h2>Hi there, I'm Daniil</h2>
+</div>
 
-<!--
-**DVSAWR/DVSAWR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+  <a href='t.me/gruzdevdaniil'>
+    <img src='https://img.shields.io/badge/telegram-black?style=flat-square&logo=telegram&logoColor=white' alt='telegram' width='150'>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align='center'>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DVSAWR&theme=aura'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DVSAWR&theme=aura'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DVSAWR&theme=aura'/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
