@@ -1,7 +1,6 @@
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/DHAa1UQA95eWTZMOxQ/200w.webp)" width="100"/>
-</div>
+
+@gruzdevdaniil
 
 <!--
 **DVSAWR/DVSAWR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
