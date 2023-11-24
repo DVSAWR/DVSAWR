@@ -1,7 +1,7 @@
 
 
 <div id='header' align='center'>
-  <h2>Hi there, I'm Daniil</h2>
+  <h2>Hi there</h2>
 </div>
 
 <div align='center'>
