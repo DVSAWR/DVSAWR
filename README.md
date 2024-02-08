@@ -6,7 +6,7 @@
 
 <div align='center'>
   <a href="https://t.me/dvsawr"/>
-    <img src='https://img.shields.io/badge/telegram-black?style=flat-square&logo=telegram&logoColor=white' alt='telegram' width='150'>
+    <img src='https://icons8.ru/icon/oWiuH0jFiU0R/телеграмма-app' alt='telegram' width='150'>
   </a>
 </div>
 
