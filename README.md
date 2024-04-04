@@ -1,10 +1,9 @@
-### Hi there 👋
-
 <!--
 **DVSAWR/DVSAWR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### `Projects:`
+- [django & DRF projects]()
+- [telegram bots projects](https://github.com/DVSAWR/telegram-bots-projects)
+- [games projects](https://github.com/DVSAWR/games-projects)
+- [contests projects](https://github.com/DVSAWR/contest-projects)
+  
+### [`conspectus`](https://github.com/DVSAWR/GLHF)
+
