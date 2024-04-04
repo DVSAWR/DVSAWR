@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### `Projects:`
-- [django & DRF projects]()
+- [django & DRF projects](https://github.com/DVSAWR/django-projects)
 - [telegram bots projects](https://github.com/DVSAWR/telegram-bots-projects)
 - [games projects](https://github.com/DVSAWR/games-projects)
 - [contests projects](https://github.com/DVSAWR/contest-projects)
