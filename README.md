@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ### `Projects:`
-- [django & DRF projects](https://github.com/DVSAWR/django-projects)
-- [telegram bots projects](https://github.com/DVSAWR/telegram-bots-projects)
-- [games projects](https://github.com/DVSAWR/games-projects)
-- [contests projects](https://github.com/DVSAWR/contest-projects)
+### [`    main-pet-project`]()
+ 
+- [CONTEST projects](https://github.com/DVSAWR/contest-projects)\
+[courses - django & DRF projects](https://github.com/DVSAWR/django-projects)\
+[courses - telegram bots projects](https://github.com/DVSAWR/telegram-bots-projects)\
+[courses - games projects](https://github.com/DVSAWR/games-projects)
   
-### [`conspectus`](https://github.com/DVSAWR/GLHF)
+  
+### [`    conspectus`](https://github.com/DVSAWR/GLHF)
 
