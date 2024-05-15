@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### [`   conspectus   `](https://github.com/DVSAWR/GLHF)
 ### `Projects:`
-### [`    main-pet-project`]()
- 
 - [CONTEST projects](https://github.com/DVSAWR/contest-projects)\
 [courses - django & DRF projects](https://github.com/DVSAWR/django-projects)\
-[courses - telegram bots projects](https://github.com/DVSAWR/telegram-bots-projects)\
-[courses - games projects](https://github.com/DVSAWR/games-projects)
-  
-  
-### [`    conspectus`](https://github.com/DVSAWR/GLHF)
+[courses - telegram bots projects](https://github.com/DVSAWR/telegram-bots-projects)
+
 
