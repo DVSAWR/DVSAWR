@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### [`   conspectus   `](https://github.com/DVSAWR/GLHF)
 #### `Projects:`
 - [fastapi simple auth service](https://github.com/DVSAWR/auth_service_project)
-- [test](https://github.com/DVSAWR/parser_project/blob/master/main.py)
+
 - [CONTEST projects](https://github.com/DVSAWR/contest-projects)
 <!--
 [courses - django & DRF projects](https://github.com/DVSAWR/django-projects)\
